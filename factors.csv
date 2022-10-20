@@ -1,0 +1,886 @@
+series,factor
+Conflict,
+War,
+Weapon,
+Gun,
+Firearm,
+travel visa,
+passport,
+right of asylum,
+immigration,
+refugee,
+Aggression,
+Bombardment,
+Embargo,
+Curfew,
+Conflict,
+War,
+Weapon,
+Gun,
+Firearm,
+travel visa,
+passport,
+right of asylum,
+immigration,
+refugee,
+Aggression,
+Bombardment,
+Embargo,
+Curfew,
+m_statemnt,non-violent event
+m_appeal,non-violent event
+m_express_coop,non-violent event
+m_consult,non-violent event
+m_diplom_coop,non-violent event
+m_material_coop,non-violent event
+m_aid,non-violent event
+m_yield,non-violent event
+m_investigate,non-violent event
+m_demand,non-violent event
+m_disapprove,non-violent event
+m_reject,non-violent event
+m_threaten,non-violent event
+m_protest,non-violent event
+m_showforce,non-violent event
+m_reduce_relat,non-violent event
+m_coerce,violence
+m_assault,violence
+m_fight,violence
+m_unconv_violence,violence
+e_statemnt,non-violent event
+e_appeal,non-violent event
+e_express_coop,non-violent event
+e_consult,non-violent event
+e_diplom_coop,non-violent event
+e_material_coop,non-violent event
+e_aid,non-violent event
+e_yield,non-violent event
+e_investigate,non-violent event
+e_demand,non-violent event
+e_disapprove,non-violent event
+e_reject,non-violent event
+e_threaten,non-violent event
+e_protest,non-violent event
+e_showforce,non-violent event
+e_reduce_relat,non-violent event
+e_coerce,violence
+e_assault,violence
+e_fight,violence
+e_unconv_violence,violence
+eg_statemnt,non-violent event
+eg_appeal,non-violent event
+eg_express_coop,non-violent event
+eg_consult,non-violent event
+eg_diplom_coop,non-violent event
+eg_material_coop,non-violent event
+eg_aid,non-violent event
+eg_yield,non-violent event
+eg_investigate,non-violent event
+eg_demand,non-violent event
+eg_disapprove,non-violent event
+eg_reject,non-violent event
+eg_threaten,non-violent event
+eg_protest,non-violent event
+eg_showforce,non-violent event
+eg_reduce_relat,non-violent event
+eg_coerce,violence
+eg_assault,violence
+eg_fight,violence
+eg_unconv_violence,violence
+eq_statemnt,non-violent event
+eq_appeal,non-violent event
+eq_express_coop,non-violent event
+eq_consult,non-violent event
+eq_diplom_coop,non-violent event
+eq_material_coop,non-violent event
+eq_aid,non-violent event
+eq_yield,non-violent event
+eq_investigate,non-violent event
+eq_demand,non-violent event
+eq_disapprove,non-violent event
+eq_reject,non-violent event
+eq_threaten,non-violent event
+eq_protest,non-violent event
+eq_showforce,non-violent event
+eq_reduce_relat,non-violent event
+eq_coerce,violence
+eq_assault,violence
+eq_fight,violence
+eq_unconv_violence,violence
+egq_statemnt,non-violent event
+egq_appeal,non-violent event
+egq_express_coop,non-violent event
+egq_consult,non-violent event
+egq_diplom_coop,non-violent event
+egq_material_coop,non-violent event
+egq_aid,non-violent event
+egq_yield,non-violent event
+egq_investigate,non-violent event
+egq_demand,non-violent event
+egq_disapprove,non-violent event
+egq_reject,non-violent event
+egq_threaten,non-violent event
+egq_protest,non-violent event
+egq_showforce,non-violent event
+egq_reduce_relat,non-violent event
+egq_coerce,violence
+egq_assault,violence
+egq_fight,violence
+egq_unconv_violence,violence
+m_statemnt,
+m_appeal,
+m_express_coop,
+m_consult,
+m_diplom_coop,
+m_material_coop,
+m_aid,
+m_yield,
+m_investigate,
+m_demand,
+m_disapprove,
+m_reject,
+m_threaten,
+m_protest,
+m_showforce,
+m_reduce_relat,
+m_coerce,
+m_assault,
+m_fight,
+m_unconv_violence,
+e_statemnt,
+e_appeal,
+e_express_coop,
+e_consult,
+e_diplom_coop,
+e_material_coop,
+e_aid,
+e_yield,
+e_investigate,
+e_demand,
+e_disapprove,
+e_reject,
+e_threaten,
+e_protest,
+e_showforce,
+e_reduce_relat,
+e_coerce,
+e_assault,
+e_fight,
+e_unconv_violence,
+eg_statemnt,
+eg_appeal,
+eg_express_coop,
+eg_consult,
+eg_diplom_coop,
+eg_material_coop,
+eg_aid,
+eg_yield,
+eg_investigate,
+eg_demand,
+eg_disapprove,
+eg_reject,
+eg_threaten,
+eg_protest,
+eg_showforce,
+eg_reduce_relat,
+eg_coerce,
+eg_assault,
+eg_fight,
+eg_unconv_violence,
+eq_statemnt,
+eq_appeal,
+eq_express_coop,
+eq_consult,
+eq_diplom_coop,
+eq_material_coop,
+eq_aid,
+eq_yield,
+eq_investigate,
+eq_demand,
+eq_disapprove,
+eq_reject,
+eq_threaten,
+eq_protest,
+eq_showforce,
+eq_reduce_relat,
+eq_coerce,
+eq_assault,
+eq_fight,
+eq_unconv_violence,
+egq_statemnt,
+egq_appeal,
+egq_express_coop,
+egq_consult,
+egq_diplom_coop,
+egq_material_coop,
+egq_aid,
+egq_yield,
+egq_investigate,
+egq_demand,
+egq_disapprove,
+egq_reject,
+egq_threaten,
+egq_protest,
+egq_showforce,
+egq_reduce_relat,
+egq_coerce,
+egq_assault,
+egq_fight,
+egq_unconv_violence,
+ln_ged_best_sb,violence
+ged_count_sb,violence
+ged_count_ns,violence
+ged_count_os,violence
+ged_best_sb,violence
+ged_best_ns,violence
+ged_best_os,violence
+ged_dummy_sb,violence
+ged_dummy_ns,violence
+ged_dummy_os,violence
+ged_onset24_sb_1,violence
+ged_onset24_sb_5,violence
+ged_onset24_sb_25,violence
+ged_onset24_sb_100,violence
+ged_onset24_sb_500,violence
+ged_onset24_ns_1,violence
+ged_onset24_ns_5,violence
+ged_onset24_ns_25,violence
+ged_onset24_ns_100,violence
+ged_onset24_ns_500,violence
+ged_onset24_os_1,violence
+ged_onset24_os_5,violence
+ged_onset24_os_25,violence
+ged_onset24_os_100,violence
+ged_onset24_os_500,violence
+time_since_ged_dummy_sb,violence
+time_since_ged_dummy_ns,violence
+time_since_ged_dummy_os,violence
+ged_best_ns_tlag1,violence
+ged_best_os_tlag1,violence
+ged_best_sb_tlag1,violence
+ged_best_ns_tlag2,violence
+ged_best_os_tlag2,violence
+ged_best_sb_tlag2,violence
+ged_months_since_last_sb_lag1,violence
+ged_months_since_last_os_lag1,violence
+ged_months_since_last_ns_lag1,violence
+ged_months_since_last_sb_tx25,violence
+ged_months_since_last_os_tx25,violence
+ged_months_since_last_ns_tx25,violence
+ged_months_since_last_sb_lag1_tx25,violence
+ged_months_since_last_os_lag1_tx25,violence
+ged_months_since_last_ns_lag1_tx25,violence
+ged_months_since_last_sb_tx500,violence
+ged_months_since_last_os_tx500,violence
+ged_months_since_last_ns_tx500,violence
+ged_months_since_last_sb_lag1_tx500,violence
+ged_months_since_last_os_lag1_tx500,violence
+ged_months_since_last_ns_lag1_tx500,violence
+acled_dummy_pr,non-violent event
+acled_dummy_sb,violence
+acled_dummy_ns,violence
+acled_dummy_os,violence
+acled_count_pr,non-violent event
+acled_count_sb,violence
+acled_count_ns,violence
+acled_count_os,violence
+wdi_ag_lnd_agri_zs,structural factors
+wdi_ag_lnd_arbl_zs,structural factors
+wdi_ag_lnd_frst_k2,structural factors
+wdi_ag_lnd_prcp_mm,structural factors
+wdi_ag_lnd_totl_k2,structural factors
+wdi_ag_lnd_totl_ru_k2,structural factors
+wdi_ag_prd_crop_xd,structural factors
+wdi_ag_prd_food_xd,structural factors
+wdi_ag_prd_lvsk_xd,structural factors
+wdi_ag_srf_totl_k2,structural factors
+wdi_ag_yld_crel_kg,structural factors
+wdi_bg_gsr_nfsv_gd_zs,structural factors
+wdi_bm_klt_dinv_wd_gd_zs,structural factors
+wdi_bn_cab_xoka_gd_zs,structural factors
+wdi_bx_gsr_ccis_zs,structural factors
+wdi_bx_gsr_cmcp_zs,structural factors
+wdi_bx_gsr_insf_zs,structural factors
+wdi_bx_gsr_mrch_cd,structural factors
+wdi_bx_gsr_tran_zs,structural factors
+wdi_bx_gsr_trvl_zs,structural factors
+wdi_bx_klt_dinv_cd_wd,structural factors
+wdi_bx_klt_dinv_wd_gd_zs,structural factors
+wdi_bx_trf_pwkr_dt_gd_zs,structural factors
+wdi_dt_dod_dect_gn_zs,structural factors
+wdi_dt_dod_pvlx_gn_zs,structural factors
+wdi_dt_oda_oatl_kd,structural factors
+wdi_dt_oda_odat_gn_zs,structural factors
+wdi_dt_oda_odat_pc_zs,structural factors
+wdi_dt_tds_dect_gn_zs,structural factors
+wdi_eg_elc_accs_zs,structural factors
+wdi_eg_use_elec_kh_pc,structural factors
+wdi_eg_use_pcap_kg_oe,structural factors
+wdi_en_pop_slum_ur_zs,structural factors
+wdi_en_urb_mcty_tl_zs,structural factors
+wdi_ep_pmp_desl_cd,structural factors
+wdi_ep_pmp_sgas_cd,structural factors
+wdi_fp_cpi_totl,structural factors
+wdi_fr_inr_dpst,structural factors
+wdi_fr_inr_lndp,structural factors
+wdi_gc_dod_totl_gd_zs,structural factors
+wdi_hd_hci_ovrl_fe,structural factors
+wdi_hd_hci_ovrl_ma,structural factors
+wdi_ic_bus_dfrn_xq,structural factors
+wdi_ic_bus_disc_xq,structural factors
+wdi_ic_bus_ease_xq,structural factors
+wdi_ic_bus_ndns_zs,structural factors
+wdi_ic_bus_nreg,structural factors
+wdi_ic_crd_info_xq,structural factors
+wdi_ic_crd_prvt_zs,structural factors
+wdi_ic_crd_publ_zs,structural factors
+wdi_ic_cus_durs_ex,structural factors
+wdi_ic_elc_durs,structural factors
+wdi_ic_elc_outg,structural factors
+wdi_ic_elc_outg_zs,structural factors
+wdi_ic_elc_time,structural factors
+wdi_ic_exp_csbc_cd,structural factors
+wdi_ic_exp_csdc_cd,structural factors
+wdi_ic_exp_tmbc,structural factors
+wdi_ic_exp_tmdc,structural factors
+wdi_ic_frm_bkwc_zs,structural factors
+wdi_ic_frm_bnks_zs,structural factors
+wdi_ic_frm_brib_zs,structural factors
+wdi_ic_frm_cmpu_zs,structural factors
+wdi_ic_frm_corr_zs,structural factors
+wdi_ic_frm_crim_zs,structural factors
+wdi_ic_frm_durs,structural factors
+wdi_ic_frm_femm_zs,structural factors
+wdi_ic_frm_femo_zs,structural factors
+wdi_ic_frm_freg_zs,structural factors
+wdi_ic_frm_infm_zs,structural factors
+wdi_ic_frm_metg_zs,structural factors
+wdi_ic_frm_outg_zs,structural factors
+wdi_ic_frm_rsdv_zs,structural factors
+wdi_ic_frm_thev_zs,structural factors
+wdi_ic_frm_trng_zs,structural factors
+wdi_ic_gov_durs_zs,structural factors
+wdi_ic_imp_csbc_cd,structural factors
+wdi_ic_imp_csdc_cd,structural factors
+wdi_ic_imp_tmbc,structural factors
+wdi_ic_imp_tmdc,structural factors
+wdi_ic_isv_durs,structural factors
+wdi_ic_lgl_cred_xq,structural factors
+wdi_ic_lgl_durs,structural factors
+wdi_ic_prp_durs,structural factors
+wdi_ic_prp_proc,structural factors
+wdi_ic_reg_cost_pc_fe_zs,structural factors
+wdi_ic_reg_cost_pc_ma_zs,structural factors
+wdi_ic_reg_cost_pc_zs,structural factors
+wdi_ic_reg_durs,structural factors
+wdi_ic_reg_durs_fe,structural factors
+wdi_ic_reg_durs_ma,structural factors
+wdi_ic_reg_proc,structural factors
+wdi_ic_reg_proc_fe,structural factors
+wdi_ic_reg_proc_ma,structural factors
+wdi_iq_cpa_breg_xq,structural factors
+wdi_iq_cpa_debt_xq,structural factors
+wdi_iq_cpa_econ_xq,structural factors
+wdi_iq_cpa_envr_xq,structural factors
+wdi_iq_cpa_finq_xq,structural factors
+wdi_iq_cpa_fins_xq,structural factors
+wdi_iq_cpa_fisp_xq,structural factors
+wdi_iq_cpa_gndr_xq,structural factors
+wdi_iq_cpa_hres_xq,structural factors
+wdi_iq_cpa_irai_xq,structural factors
+wdi_iq_cpa_macr_xq,structural factors
+wdi_iq_cpa_padm_xq,structural factors
+wdi_iq_cpa_pres_xq,structural factors
+wdi_iq_cpa_prop_xq,structural factors
+wdi_iq_cpa_prot_xq,structural factors
+wdi_iq_cpa_pubs_xq,structural factors
+wdi_iq_cpa_revn_xq,structural factors
+wdi_iq_cpa_soci_xq,structural factors
+wdi_iq_cpa_strc_xq,structural factors
+wdi_iq_cpa_trad_xq,structural factors
+wdi_iq_cpa_tran_xq,structural factors
+wdi_ms_mil_mprt_kd,structural factors
+wdi_ms_mil_xpnd_gd_zs,structural factors
+wdi_ms_mil_xpnd_zs,structural factors
+wdi_ne_con_prvt_pc_kd_zg,structural factors
+wdi_ne_dab_totl_kd,structural factors
+wdi_ne_dab_totl_zs,structural factors
+wdi_ne_exp_gnfs_zs,structural factors
+wdi_ne_gdi_totl_zs,structural factors
+wdi_ne_imp_gnfs_kd,structural factors
+wdi_ne_imp_gnfs_kd_zg,structural factors
+wdi_ne_imp_gnfs_zs,structural factors
+wdi_ne_rsb_gnfs_zs,structural factors
+wdi_ne_trd_gnfs_zs,structural factors
+wdi_nv_agr_empl_kd,structural factors
+wdi_nv_agr_totl_cd,structural factors
+wdi_nv_agr_totl_cn,structural factors
+wdi_nv_agr_totl_kd,structural factors
+wdi_nv_agr_totl_kd_zg,structural factors
+wdi_nv_agr_totl_kn,structural factors
+wdi_nv_agr_totl_zs,structural factors
+wdi_nv_ind_empl_kd,structural factors
+wdi_nv_ind_manf_cd,structural factors
+wdi_nv_ind_manf_cn,structural factors
+wdi_nv_ind_manf_kd,structural factors
+wdi_nv_ind_manf_kd_zg,structural factors
+wdi_nv_ind_manf_kn,structural factors
+wdi_nv_ind_manf_zs,structural factors
+wdi_nv_ind_totl_cd,structural factors
+wdi_nv_ind_totl_cn,structural factors
+wdi_nv_ind_totl_kd,structural factors
+wdi_nv_ind_totl_kd_zg,structural factors
+wdi_nv_ind_totl_kn,structural factors
+wdi_nv_ind_totl_zs,structural factors
+wdi_nv_mnf_chem_zs_un,structural factors
+wdi_nv_mnf_fbto_zs_un,structural factors
+wdi_nv_mnf_mtrn_zs_un,structural factors
+wdi_nv_mnf_othr_zs_un,structural factors
+wdi_nv_mnf_tech_zs_un,structural factors
+wdi_nv_mnf_txtl_zs_un,structural factors
+wdi_nv_srv_empl_kd,structural factors
+wdi_nv_srv_totl_cd,structural factors
+wdi_nv_srv_totl_cn,structural factors
+wdi_nv_srv_totl_kd,structural factors
+wdi_nv_srv_totl_kd_zg,structural factors
+wdi_nv_srv_totl_kn,structural factors
+wdi_nv_srv_totl_zs,structural factors
+wdi_ny_adj_dfor_cd,structural factors
+wdi_ny_adj_dmin_gn_zs,structural factors
+wdi_ny_adj_dres_gn_zs,structural factors
+wdi_ny_adj_ictr_gn_zs,structural factors
+wdi_ny_adj_nnty_kd,structural factors
+wdi_ny_adj_nnty_kd_zg,structural factors
+wdi_ny_gdp_coal_rt_zs,structural factors
+wdi_ny_gdp_defl_kd_zg,structural factors
+wdi_ny_gdp_defl_kd_zg_ad,structural factors
+wdi_ny_gdp_defl_zs,structural factors
+wdi_ny_gdp_defl_zs_ad,structural factors
+wdi_ny_gdp_disc_cn,structural factors
+wdi_ny_gdp_disc_kn,structural factors
+wdi_ny_gdp_fcst_cd,structural factors
+wdi_ny_gdp_fcst_cn,structural factors
+wdi_ny_gdp_fcst_kd,structural factors
+wdi_ny_gdp_fcst_kn,structural factors
+wdi_ny_gdp_frst_rt_zs,structural factors
+wdi_ny_gdp_minr_rt_zs,structural factors
+wdi_ny_gdp_mktp_cd,structural factors
+wdi_ny_gdp_mktp_cn,structural factors
+wdi_ny_gdp_mktp_cn_ad,structural factors
+wdi_ny_gdp_mktp_kd,structural factors
+wdi_ny_gdp_mktp_kd_zg,structural factors
+wdi_ny_gdp_mktp_kn,structural factors
+wdi_ny_gdp_mktp_pp_cd,structural factors
+wdi_ny_gdp_mktp_pp_kd,structural factors
+wdi_ny_gdp_ngas_rt_zs,structural factors
+wdi_ny_gdp_pcap_cd,structural factors
+wdi_ny_gdp_pcap_cn,structural factors
+wdi_ny_gdp_pcap_kd,structural factors
+wdi_ny_gdp_pcap_kd_zg,structural factors
+wdi_ny_gdp_pcap_kn,structural factors
+wdi_ny_gdp_pcap_pp_cd,structural factors
+wdi_ny_gdp_pcap_pp_kd,structural factors
+wdi_ny_gdp_petr_rt_zs,structural factors
+wdi_ny_gdp_totl_rt_zs,structural factors
+wdi_ny_gnp_mktp_kd,structural factors
+wdi_ny_gnp_mktp_pp_kd,structural factors
+wdi_per_si_allsi_cov_pop_tot,structural factors
+wdi_per_si_allsi_cov_q1_tot,structural factors
+wdi_per_si_allsi_cov_q2_tot,structural factors
+wdi_per_si_allsi_cov_q3_tot,structural factors
+wdi_per_si_allsi_cov_q4_tot,structural factors
+wdi_per_si_allsi_cov_q5_tot,structural factors
+wdi_se_adt_1524_lt_fe_zs,structural factors
+wdi_se_adt_1524_lt_ma_zs,structural factors
+wdi_se_adt_1524_lt_zs,structural factors
+wdi_se_adt_litr_fe_zs,structural factors
+wdi_se_adt_litr_ma_zs,structural factors
+wdi_se_adt_litr_zs,structural factors
+wdi_se_enr_prim_fm_zs,structural factors
+wdi_se_enr_prsc_fm_zs,structural factors
+wdi_se_prm_cmpt_zs,structural factors
+wdi_se_prm_cuat_fe_zs,structural factors
+wdi_se_prm_cuat_ma_zs,structural factors
+wdi_se_prm_cuat_zs,structural factors
+wdi_se_prm_enrr,structural factors
+wdi_se_prm_nenr,structural factors
+wdi_se_prm_tenr_fe,structural factors
+wdi_se_prm_tenr_ma,structural factors
+wdi_se_sec_cmpt_lo_zs,structural factors
+wdi_se_sec_cuat_lo_fe_zs,structural factors
+wdi_se_sec_cuat_lo_ma_zs,structural factors
+wdi_se_sec_cuat_lo_zs,structural factors
+wdi_se_sec_nenr,structural factors
+wdi_se_sec_prog_fe_zs,structural factors
+wdi_se_sec_uner_lo_fe_zs,structural factors
+wdi_se_sec_uner_lo_ma_zs,structural factors
+wdi_se_ter_cuat_ba_fe_zs,structural factors
+wdi_se_ter_cuat_ba_ma_zs,structural factors
+wdi_se_ter_cuat_do_fe_zs,structural factors
+wdi_se_ter_cuat_do_ma_zs,structural factors
+wdi_se_ter_cuat_do_zs,structural factors
+wdi_sg_dmk_alld_fn_zs,structural factors
+wdi_sg_dmk_srcr_fn_zs,structural factors
+wdi_sg_gen_parl_zs,structural factors
+wdi_sg_job_nopn_eq,structural factors
+wdi_sg_law_chmr,structural factors
+wdi_sg_law_eqrm_wk,structural factors
+wdi_sg_law_leve_pu,structural factors
+wdi_sg_law_nodc_hr,structural factors
+wdi_sg_leg_dvaw,structural factors
+wdi_sg_mmr_leve_ep,structural factors
+wdi_sg_nod_cons,structural factors
+wdi_sg_tim_uwrk_fe,structural factors
+wdi_sg_tim_uwrk_ma,structural factors
+wdi_sg_vaw_1549_zs,structural factors
+wdi_sg_vaw_argu_zs,structural factors
+wdi_sg_vaw_burn_zs,structural factors
+wdi_sg_vaw_goes_zs,structural factors
+wdi_sg_vaw_negl_zs,structural factors
+wdi_sg_vaw_reas_zs,structural factors
+wdi_sg_vaw_refu_zs,structural factors
+wdi_sh_dyn_0514,structural factors
+wdi_sh_dyn_aids_fe_zs,structural factors
+wdi_sh_dyn_mort,structural factors
+wdi_sh_dyn_mort_fe,structural factors
+wdi_sh_dyn_mort_ma,structural factors
+wdi_sh_h2o_basw_ru_zs,structural factors
+wdi_sh_h2o_basw_ur_zs,structural factors
+wdi_sh_h2o_basw_zs,structural factors
+wdi_sh_mmr_risk_zs,structural factors
+wdi_sh_sta_bass_ru_zs,structural factors
+wdi_sh_sta_bass_ur_zs,structural factors
+wdi_sh_sta_bass_zs,structural factors
+wdi_sh_sta_maln_fe_zs,structural factors
+wdi_sh_sta_maln_ma_zs,structural factors
+wdi_sh_sta_maln_zs,structural factors
+wdi_sh_sta_mmrt,structural factors
+wdi_sh_sta_mmrt_ne,structural factors
+wdi_sh_sta_stnt_fe_zs,structural factors
+wdi_sh_sta_stnt_ma_zs,structural factors
+wdi_sh_sta_stnt_zs,structural factors
+wdi_sh_sta_traf_p5,structural factors
+wdi_sh_sta_wash_p5,structural factors
+wdi_sh_svr_wast_fe_zs,structural factors
+wdi_sh_svr_wast_ma_zs,structural factors
+wdi_sh_svr_wast_zs,structural factors
+wdi_si_dst_02nd_20,structural factors
+wdi_si_dst_03rd_20,structural factors
+wdi_si_dst_04th_20,structural factors
+wdi_si_dst_05th_20,structural factors
+wdi_si_dst_10th_10,structural factors
+wdi_si_dst_frst_10,structural factors
+wdi_si_dst_frst_20,structural factors
+wdi_si_pov_dday,structural factors
+wdi_si_pov_gaps,structural factors
+wdi_si_pov_gini,structural factors
+wdi_si_pov_lmic,structural factors
+wdi_si_pov_umic,structural factors
+wdi_sl_agr_empl_ma_zs,structural factors
+wdi_sl_agr_empl_zs,structural factors
+wdi_sl_emp_self_zs,structural factors
+wdi_sl_ind_empl_zs,structural factors
+wdi_sl_srv_empl_zs,structural factors
+wdi_sl_tlf_acti_1524_fe_zs,structural factors
+wdi_sl_tlf_acti_1524_ma_zs,structural factors
+wdi_sl_tlf_cact_fe_zs,structural factors
+wdi_sl_tlf_totl_fe_zs,structural factors
+wdi_sl_uem_advn_fe_zs,structural factors
+wdi_sl_uem_advn_ma_zs,structural factors
+wdi_sl_uem_advn_zs,structural factors
+wdi_sl_uem_neet_fe_zs,structural factors
+wdi_sl_uem_neet_ma_zs,structural factors
+wdi_sl_uem_neet_zs,structural factors
+wdi_sl_uem_totl_fe_zs,structural factors
+wdi_sl_uem_totl_ma_zs,structural factors
+wdi_sl_uem_totl_zs,structural factors
+wdi_sm_pop_netm,structural factors
+wdi_sm_pop_refg,structural factors
+wdi_sm_pop_refg_or,structural factors
+wdi_sm_pop_totl_zs,structural factors
+wdi_sn_itk_defc_zs,structural factors
+wdi_sp_ado_tfrt,structural factors
+wdi_sp_dyn_amrt_fe,structural factors
+wdi_sp_dyn_amrt_ma,structural factors
+wdi_sp_dyn_imrt_fe_in,structural factors
+wdi_sp_dyn_imrt_in,structural factors
+wdi_sp_dyn_imrt_ma_in,structural factors
+wdi_sp_dyn_le00_fe_in,structural factors
+wdi_sp_dyn_le00_in,structural factors
+wdi_sp_dyn_le00_ma_in,structural factors
+wdi_sp_dyn_tfrt_in,structural factors
+wdi_sp_dyn_wfrt,structural factors
+wdi_sp_hou_fema_zs,structural factors
+wdi_sp_m15_2024_fe_zs,structural factors
+wdi_sp_m18_2024_fe_zs,structural factors
+wdi_sp_pop_0004_fe_5y,structural factors
+wdi_sp_pop_0004_ma_5y,structural factors
+wdi_sp_pop_0014_fe_zs,structural factors
+wdi_sp_pop_0014_ma_zs,structural factors
+wdi_sp_pop_0014_to_zs,structural factors
+wdi_sp_pop_1564_fe_zs,structural factors
+wdi_sp_pop_1564_ma_zs,structural factors
+wdi_sp_pop_1564_to_zs,structural factors
+wdi_sp_pop_65up_fe_zs,structural factors
+wdi_sp_pop_65up_ma_zs,structural factors
+wdi_sp_pop_65up_to_zs,structural factors
+wdi_sp_pop_dpnd,structural factors
+wdi_sp_pop_dpnd_ol,structural factors
+wdi_sp_pop_dpnd_yg,structural factors
+wdi_sp_pop_grow,structural factors
+wdi_sp_pop_totl,structural factors
+wdi_sp_pop_totl_fe_zs,structural factors
+wdi_sp_pop_totl_ma_zs,structural factors
+wdi_sp_rur_totl_zg,structural factors
+wdi_sp_rur_totl_zs,structural factors
+wdi_sp_urb_grow,structural factors
+wdi_sp_urb_totl_in_zs,structural factors
+wdi_st_int_arvl,structural factors
+wdi_st_int_rcpt_xp_zs,structural factors
+wdi_tx_val_agri_zs_un,structural factors
+wdi_tx_val_food_zs_un,structural factors
+wdi_tx_val_fuel_zs_un,structural factors
+wdi_tx_val_mmtl_zs_un,structural factors
+wdi_tx_val_tech_mf_zs,structural factors
+wdi_vc_btl_deth,structural factors
+wdi_vc_idp_nwcv,structural factors
+wdi_vc_idp_nwds,structural factors
+wdi_vc_idp_tocv,structural factors
+wdi_vc_pkp_totl_un,structural factors
+vdem_e_pefeliex,structural factors
+vdem_e_regiongeo,structural factors
+vdem_e_regionpol,structural factors
+vdem_e_regionpol_6c,structural factors
+vdem_v2clacjstm,political factors and rights
+vdem_v2clacjstw,political factors and rights
+vdem_v2cldiscm,political factors and rights
+vdem_v2cldiscw,political factors and rights
+vdem_v2cldmovem,political factors and rights
+vdem_v2cldmovew,political factors and rights
+vdem_v2clprptym,political factors and rights
+vdem_v2clprptyw,political factors and rights
+vdem_v2clslavef,political factors and rights
+vdem_v2clslavem,political factors and rights
+vdem_v2csantimv,political factors and rights
+vdem_v2csgender,political factors and rights
+vdem_v2csprtcpt,political factors and rights
+vdem_v2csreprss,political factors and rights
+vdem_v2elembaut,political factors and rights
+vdem_v2elembcap,political factors and rights
+vdem_v2elrsthog,political factors and rights
+vdem_v2elrsthos,political factors and rights
+vdem_v2elrstrct,political factors and rights
+vdem_v2elsuffrage,political factors and rights
+vdem_v2eltype_0,political factors and rights
+vdem_v2eltype_1,political factors and rights
+vdem_v2eltype_2,political factors and rights
+vdem_v2eltype_3,political factors and rights
+vdem_v2eltype_4,political factors and rights
+vdem_v2eltype_5,political factors and rights
+vdem_v2eltype_6,political factors and rights
+vdem_v2eltype_7,political factors and rights
+vdem_v2eltype_8,political factors and rights
+vdem_v2eltype_9,political factors and rights
+vdem_v2lgfemleg,political factors and rights
+vdem_v2lgqugen,political factors and rights
+vdem_v2lgqugens,political factors and rights
+vdem_v2mefemjrn,political factors and rights
+vdem_v2pepwrgen,political factors and rights
+vdem_v2svdomaut,political factors and rights
+vdem_v2svindep,political factors and rights
+vdem_v2svinlaut,political factors and rights
+vdem_v2svstterr,political factors and rights
+vdem_v2x_accountability,political factors and rights
+vdem_v2x_api,political factors and rights
+vdem_v2x_civlib,political factors and rights
+vdem_v2x_clphy,political factors and rights
+vdem_v2x_clpol,political factors and rights
+vdem_v2x_clpriv,political factors and rights
+vdem_v2x_corr,political factors and rights
+vdem_v2x_cspart,political factors and rights
+vdem_v2x_delibdem,political factors and rights
+vdem_v2x_diagacc,political factors and rights
+vdem_v2x_divparctrl,political factors and rights
+vdem_v2x_edcomp_thick,political factors and rights
+vdem_v2x_egal,political factors and rights
+vdem_v2x_egaldem,political factors and rights
+vdem_v2x_elecoff,political factors and rights
+vdem_v2x_elecreg,political factors and rights
+vdem_v2x_ex_confidence,political factors and rights
+vdem_v2x_ex_direlect,political factors and rights
+vdem_v2x_ex_hereditary,political factors and rights
+vdem_v2x_ex_military,political factors and rights
+vdem_v2x_ex_party,political factors and rights
+vdem_v2x_execorr,political factors and rights
+vdem_v2x_feduni,political factors and rights
+vdem_v2x_frassoc_thick,political factors and rights
+vdem_v2x_freexp,political factors and rights
+vdem_v2x_freexp_altinf,political factors and rights
+vdem_v2x_gencl,political factors and rights
+vdem_v2x_gencs,political factors and rights
+vdem_v2x_gender,political factors and rights
+vdem_v2x_genpp,political factors and rights
+vdem_v2x_horacc,political factors and rights
+vdem_v2x_hosabort,political factors and rights
+vdem_v2x_hosinter,political factors and rights
+vdem_v2x_jucon,political factors and rights
+vdem_v2x_legabort,political factors and rights
+vdem_v2x_libdem,political factors and rights
+vdem_v2x_liberal,political factors and rights
+vdem_v2x_mpi,political factors and rights
+vdem_v2x_neopat,political factors and rights
+vdem_v2x_partip,political factors and rights
+vdem_v2x_partipdem,political factors and rights
+vdem_v2x_polyarchy,political factors and rights
+vdem_v2x_pubcorr,political factors and rights
+vdem_v2x_regime,political factors and rights
+vdem_v2x_regime_amb,political factors and rights
+vdem_v2x_rule,political factors and rights
+vdem_v2x_suffr,political factors and rights
+vdem_v2x_veracc,political factors and rights
+vdem_v2xcl_acjst,political factors and rights
+vdem_v2xcl_disc,political factors and rights
+vdem_v2xcl_dmove,political factors and rights
+vdem_v2xcl_prpty,political factors and rights
+vdem_v2xcl_rol,political factors and rights
+vdem_v2xcl_slave,political factors and rights
+vdem_v2xcs_ccsi,political factors and rights
+vdem_v2xdd_cic,political factors and rights
+vdem_v2xdd_dd,political factors and rights
+vdem_v2xdd_i_or,political factors and rights
+vdem_v2xdd_i_pi,political factors and rights
+vdem_v2xdd_i_pl,political factors and rights
+vdem_v2xdd_i_rf,political factors and rights
+vdem_v2xdd_toc,political factors and rights
+vdem_v2xdl_delib,political factors and rights
+vdem_v2xeg_eqaccess,political factors and rights
+vdem_v2xeg_eqdr,political factors and rights
+vdem_v2xeg_eqprotec,political factors and rights
+vdem_v2xel_elecparl,political factors and rights
+vdem_v2xel_elecpres,political factors and rights
+vdem_v2xel_frefair,political factors and rights
+vdem_v2xel_locelec,political factors and rights
+vdem_v2xel_regelec,political factors and rights
+vdem_v2xex_elecleg,political factors and rights
+vdem_v2xex_elecreg,political factors and rights
+vdem_v2xlg_elecreg,political factors and rights
+vdem_v2xlg_legcon,political factors and rights
+vdem_v2xlg_leginter,political factors and rights
+vdem_v2xme_altinf,political factors and rights
+vdem_v2xnp_client,political factors and rights
+vdem_v2xnp_pres,political factors and rights
+vdem_v2xnp_regcorr,political factors and rights
+vdem_v2xpe_exlecon,political factors and rights
+vdem_v2xpe_exlgender,political factors and rights
+vdem_v2xpe_exlgeo,political factors and rights
+vdem_v2xpe_exlpol,political factors and rights
+vdem_v2xpe_exlsocgr,political factors and rights
+vdem_v2xps_party,political factors and rights
+fvp_confinv,violence
+fvp_conflict,violence
+fvp_conflict0,violence
+fvp_conflict1,violence
+fvp_conflict2,violence
+fvp_conflict4,violence
+fvp_conflict4nsc,violence
+fvp_conflict4osv,violence
+fvp_conflict_ext,violence
+fvp_conflictosv,violence
+fvp_fvp_auto,political factors and rights
+fvp_fvp_demo,political factors and rights
+fvp_fvp_democracy,political factors and rights
+fvp_fvp_electoral,political factors and rights
+fvp_fvp_liberal,political factors and rights
+fvp_fvp_participatory,political factors and rights
+fvp_fvp_regime3c,political factors and rights
+fvp_fvp_semi,political factors and rights
+fvp_gdp200,political factors and rights
+fvp_gdpcap_nonoilrent,political factors and rights
+fvp_gdpcap_oilrent,political factors and rights
+fvp_gdppc200,political factors and rights
+fvp_govt,political factors and rights
+fvp_grgdpcap_nonoilrent,structural factors
+fvp_grgdpcap_oilrent,structural factors
+fvp_grgdppercapita200,structural factors
+fvp_grpop200,structural factors
+fvp_indepyear,political factors and rights
+fvp_lngdp200,structural factors
+fvp_lngdpcap_nonoilrent,structural factors
+fvp_lngdpcap_oilrent,structural factors
+fvp_lngdppercapita200,structural factors
+fvp_lnoilrent,structural factors
+fvp_lnpop200,structural factors
+fvp_ltimeindep,structural factors
+fvp_population200,structural factors
+fvp_prop_diexpo,political factors and rights
+fvp_prop_discexclpowless,political factors and rights
+fvp_prop_discriminated,political factors and rights
+fvp_prop_dominant,political factors and rights
+fvp_prop_excluded,political factors and rights
+fvp_prop_irrelevant,political factors and rights
+fvp_prop_junpart,political factors and rights
+fvp_prop_powerless,political factors and rights
+fvp_prop_selfexclusion,political factors and rights
+fvp_prop_senpart,political factors and rights
+fvp_ssp2_edu_sec_15_24_prop,structural factors
+fvp_ssp2_urban_share_iiasa,structural factors
+fvp_timeindep,political factors and rights
+fvp_timesincepreindepwar,political factors and rights
+fvp_timesinceregimechange,political factors and rights
+reign_age,political factors and rights
+reign_anticipation,political factors and rights
+reign_change_recent,political factors and rights
+reign_country_month_id,political factors and rights
+reign_couprisk,political factors and rights
+reign_defeat_recent,political factors and rights
+reign_delayed,political factors and rights
+reign_direct_recent,political factors and rights
+reign_elected,political factors and rights
+reign_election_now,political factors and rights
+reign_election_recent,political factors and rights
+reign_exec_ant,political factors and rights
+reign_exec_recent,political factors and rights
+reign_gov_dominant_party,political factors and rights
+reign_gov_foreign_occupied,political factors and rights
+reign_gov_indirect_military,political factors and rights
+reign_gov_military,political factors and rights
+reign_gov_military_personal,political factors and rights
+reign_gov_monarchy,political factors and rights
+reign_gov_oligarchy,political factors and rights
+reign_gov_parliamentary_democracy,political factors and rights
+reign_gov_party_military,political factors and rights
+reign_gov_party_personal,political factors and rights
+reign_gov_party_personal_military_hybrid,political factors and rights
+reign_gov_personal_dictatorship,political factors and rights
+reign_gov_presidential_democracy,political factors and rights
+reign_gov_provisional_civilian,political factors and rights
+reign_gov_provisional_military,political factors and rights
+reign_gov_warlordism,political factors and rights
+reign_indirect_recent,political factors and rights
+reign_irreg_lead_ant,political factors and rights
+reign_irregular,political factors and rights
+reign_lastelection,political factors and rights
+reign_lead_recent,political factors and rights
+reign_leg_ant,political factors and rights
+reign_leg_recent,political factors and rights
+reign_loss,political factors and rights
+reign_male,political factors and rights
+reign_militarycareer,political factors and rights
+reign_nochange_recent,political factors and rights
+reign_pctile_risk,political factors and rights
+reign_precip,political factors and rights
+reign_prev_conflict,political factors and rights
+reign_pt_attempt,political factors and rights
+reign_pt_suc,political factors and rights
+reign_ref_ant,political factors and rights
+reign_ref_recent,political factors and rights
+reign_tenure_months,political factors and rights
+reign_victory_recent,political factors and rights
+icgcw_alerts,violence
+icgcw_deteriorated,violence
+icgcw_improved,violence
+icgcw_opportunities,violence
+icgcw_unobserved,violence
+milex_usd,
+milex_sharegov,
+import,
